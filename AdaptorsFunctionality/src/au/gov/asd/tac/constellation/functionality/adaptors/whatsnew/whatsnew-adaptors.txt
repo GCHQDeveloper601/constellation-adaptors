@@ -1,4 +1,23 @@
-== 2019-03-01 Map View Update - New Maps
+== 2020-08-18 Example Gaffer Queries
+<p>
+ In the Data Access View there is 1 plugin that can be used to query a Gaffer
+ Instance running the Road Traffic Example. This is intended to show to you can 
+ write you own customer query to Gaffer from Constellation.
+</p>
+
+== 2020-04-20 Support for GraphML and GML files
+<p>
+In the Data Access View there are 6 plugins that can be used to import, enrich and
+then hop from the graph using a GraphML or GML file.
+</p>
+
+== 2020-04-16 Support for Pajek files
+<p>
+In the Data Access View there are 2 Pajek plugins that can be used to import and
+then hop from the graph using a Pajek file.
+</p>
+
+== 2020-02-25 Map View Update - New Maps
 <p>Several new map services have been made available to the Map View, including:</p>
 <ul>
 <li>ArcGIS Online</li>
